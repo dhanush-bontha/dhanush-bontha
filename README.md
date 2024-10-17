@@ -1,5 +1,5 @@
 <img src="https://github.com/PSVRAMANA40248/PSVRAMANA40248/blob/main/Screenshot%202024-10-14%20004348.png" alt="logo" width="1000" height="300"/>
-<h1 align="center">Hi 👋, I'm BOntha Venkata Dhanush</h1>
+<h1 align="center">Hi 👋, I'm Bontha Venkata Dhanush</h1>
 <h2 align="center">A passionate computer science student from india</h2>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
